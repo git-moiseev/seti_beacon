@@ -34,7 +34,7 @@ Whether this minimality can be established formally remains an open question for
 
 More generally, the proposed waveform should be viewed as an example rather than a final design.
 
-Alternative waveform architectures may satisfy the same design principles while exhibiting different trade-offs between bandwidth, observation time, synchronization latency, and computational complexity.
+The proposed waveform should therefore be regarded as a reference architecture rather than a definitive solution. Its primary purpose is to demonstrate that waveform structure can be deliberately organized to reduce the computational effort required for blind detection.
 
 Developing a formal optimization framework for such waveforms represents an important direction for future work.
 
